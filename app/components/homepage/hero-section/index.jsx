@@ -125,13 +125,13 @@ function HeroSection() {
                 <span className="text-amber-300">Docker</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">ReactJS</span>
-                <span className="text-gray-400">{"'],"}</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">UI/UX</span>
-                <span className="text-gray-400">{"'],"}</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Java - Spring Boot</span>
-                <span className="text-gray-400">{"'],"}</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">SQL</span>
-                <span className="text-gray-400">{"'],"}</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">GIT</span>
                 <span className="text-gray-400">{"'],"}</span>
               </div>
