@@ -59,7 +59,7 @@ export const projectsData = [
     {
         id: 5,
         name: 'Wx200 Robotic arm playing Tic-Tac-Toe',
-        description: "Bucky is a robotic demo that plays tic-tac-toe, showcasing Q-learning, a type of reinforcement learning. It uses this method to improve its gameplay by learning from past experiences and optimizing its strategy over time. This demonstration highlights the potential of artificial intelligence in creating adaptive and intelligent systems capable of interacting with humans in dynamic environments.",
+        description: "Robotic demo that plays tic-tac-toe, showcasing Q-learning, a type of reinforcement learning. It uses this method to improve its gameplay by learning from past experiences and optimizing its strategy over time. This demonstration highlights the potential of artificial intelligence in creating adaptive and intelligent systems capable of interacting with humans in dynamic environments.",
         tools: ['Python,Angular,REST-API,Reinforcement learning,ROS1,ROS2'],
         code: '',
         demo: '',
@@ -67,8 +67,8 @@ export const projectsData = [
     },
     {
         id: 6,
-        name: 'muSTREAM(platform to create and deploy intelligent systems in real-time)',
-        description: "muStream is an application designed to streamline the deployment of frontend and backend code by seamlessly integrating them into a unified workflow. It functions as a middleware that processes and transmits application code through the Lazarus Agency, ensuring efficient handling and hosting within a company's infrastructure. By leveraging technologies like Kafka, Prometheus, Docker, and Kubernetes, muStream facilitates real-time data streaming and processing while optimizing system performance. With its structured architecture, it enables smooth deployment, monitoring, and scaling of applications, making it an essential tool for organizations looking to automate and enhance their software deployment processes.",
+        name: 'STREAM(platform to create and deploy intelligent systems in real-time)',
+        description: "Stream is an application designed to streamline the deployment of frontend and backend code by seamlessly integrating them into a unified workflow. It functions as a middleware that processes and transmits application code through the Lazarus Agency, ensuring efficient handling and hosting within a company's infrastructure. By leveraging technologies like Kafka, Prometheus, Docker, and Kubernetes, muStream facilitates real-time data streaming and processing while optimizing system performance. With its structured architecture, it enables smooth deployment, monitoring, and scaling of applications, making it an essential tool for organizations looking to automate and enhance their software deployment processes.",
         tools: [''],
         code: '',
         demo: '',
